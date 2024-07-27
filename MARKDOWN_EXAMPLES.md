@@ -8,6 +8,7 @@
 ###### Heading 6
 
 <!-- Unordered list -->
+This is an UNORDERED list (bullet list)
 - Bullet Point 1
 - Bullet Point 2
 - Bullet Point 3
