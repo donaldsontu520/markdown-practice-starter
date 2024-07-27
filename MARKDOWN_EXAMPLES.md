@@ -58,7 +58,7 @@ def greet_user():
 ---
 
 <!-- Blockquote -->
-> This is an example of a blockquote. Notice how the text is indented slightly.
+> This is an example of a blockquote. Notice how the text is indented slightly from the marker in the left margin.
 
 <!-- Hyperlinks -->
 [Amazon](http://www.amazon.com)
