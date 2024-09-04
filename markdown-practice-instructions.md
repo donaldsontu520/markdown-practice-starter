@@ -1,5 +1,4 @@
 # Web & App Development
-## Mike Jenkins
 ### Markdown Practice
 
 ## Overview
