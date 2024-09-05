@@ -5,7 +5,7 @@
 
 1. Sign in to GitHub.com and create a new repository named `markdown-practice`.
 2. To the repository, add a new markdown file called `practice.md`.
-3. Add content and apply some basic styling to your markdown file.
+3. Add content as directed (see *Specifications* below) and apply some basic styling to your markdown file.
 
 ## When Finished With This Activity
 Show me your finished markdown file before you leave today.
