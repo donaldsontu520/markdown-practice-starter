@@ -34,7 +34,5 @@ Include the following info in your markdown file:
     - Use markdown to make the first fact **bold**
     - Use markdown to *italicize* the second fact
  
-`
-print('Hello!')
-`
+
 
